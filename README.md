@@ -5,7 +5,7 @@ Use this repository as a template for content projects. The directory structure 
 ```
 /
 |  article.md
-|  /assets
+|  /images
    |  <all video and article imagery/other assets go here>
 |  /video
    |  <video files will be stored here but ignored by .gitignore>
